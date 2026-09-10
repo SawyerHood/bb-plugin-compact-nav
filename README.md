@@ -1,3 +1,5 @@
+> **Moved:** this plugin now lives in [sawyer-plugins](https://github.com/SawyerHood/sawyer-plugins/tree/main/plugins/compact-nav). This repository is archived and no longer receives updates.
+
 # Compact Nav
 
 A BB plugin that turns the main sidebar navigation into compact, borderless icon buttons.
