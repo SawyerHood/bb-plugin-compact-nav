@@ -10,7 +10,7 @@
     "name": "Compact Nav",
     "description": "Compact, borderless sidebar icons with native ordering and visibility controls.",
     "branding": {
-      "icon": "Grid"
+      "icon": "./assets/icon.svg"
     },
     "server": "./server.ts",
     "app": "./app.tsx",
